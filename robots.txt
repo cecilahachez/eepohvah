@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://angohpaiqu.rih.is/sitemap.xml
